@@ -1,0 +1,13 @@
+html {
+    background-color: blue;
+}
+
+.image {
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+}
+
+.image:hover {
+    border: 5px solid rgb(253, 2, 2);
+}
